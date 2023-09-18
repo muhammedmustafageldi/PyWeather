@@ -46,9 +46,9 @@ pip install requests
 
 ## SCREENSHOT
 
-![FirstFile](https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/Weather/weather1.png)
+![FirstFile](https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/Weather/weather1.png)
 
-![SecondFile](https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/Weather/weather2.png)
+![SecondFile](https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/Weather/weather2.png)
 
 ## CONTRIBUTION
 
